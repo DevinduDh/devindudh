@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">I'm Devindu  </h1>
 
 ## I'm an Electronics and Communication Engineering Undergraduate !!
 
