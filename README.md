@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Be Productive and eat Healthy.
 - ⚡ Fun fact: I love to read.
 
-# Last 5 songs I litened to 
+# Last 5 songs I've litened to 
 <!--Spotify recently played:START-->
 ![Github Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=hg4dv14q6m9wupv6g0fn0ayeq)
 <!--Spotify recently played:END-->
