@@ -2,7 +2,7 @@
 
 ## I'm an Electronics and Communication Engineering Undergraduate !!
 
-- 🌱 I’m currently learning HTML,CSS and JAVASCRIPT 🤣
+- 🌱 I’m currently learning HTML,CSS and JAVASCRIPT
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Be Productive and eat Healthy.
 - ⚡ Fun fact: I love to read.
