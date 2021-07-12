@@ -1,7 +1,7 @@
 <h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35">I'm Devindu  </h1>
 
 ## I'm an Electronics and Communication Engineering Undergraduate !!
-[![Devindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Devindudh)](https://github.com/Devindudh/github-readme-activity-graph)
+[![Devindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Devindudh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🌱 I’m currently learning HTML,CSS and JAVASCRIPT
 - 👯 I’m looking to collaborate with other developers.
