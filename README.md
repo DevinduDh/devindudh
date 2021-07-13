@@ -9,9 +9,7 @@
 - ⚡ Fun fact: I love to read.
 <img src="banner2.gif">
 # Last 5 songs I've litened to 
-<!--Spotify recently played:START-->
-![Github Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=hg4dv14q6m9wupv6g0fn0ayeq)
-<!--Spotify recently played:END-->
+
 
 # Last 5 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
@@ -24,9 +22,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="devindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="devindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="devindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
