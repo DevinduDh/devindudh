@@ -8,7 +8,6 @@
 - 🥅 2021 Goals: Be Productive and eat Healthy.
 - ⚡ Fun fact: I love to read.
 <img src="banner2.gif">
-# Last 5 songs I've litened to 
 
 
 # Last 5 Books I've Read 🤓
