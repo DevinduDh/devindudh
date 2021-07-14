@@ -10,8 +10,8 @@
 <img src="banner2.gif">
 
 <a href="https://github.com/devindudh/github-stats">  
-[![My GitHub Stats](https://github.com/devindudh/github-stats/blob/master/generated/overview.svg)
-[![My GitHub Language Stats](https://github.com/devindudh/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/devindudh/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/devindudh/github-stats/blob/master/generated/languages.svg)
 
 
 # Last 5 Books I've Read 🤓
