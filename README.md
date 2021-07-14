@@ -8,11 +8,7 @@
 - 🥅 2021 Goals: Be Productive and eat Healthy.
 - ⚡ Fun fact: I love to read.
 <img src="banner2.gif">
-
-<a href="https://github.com/devindudh/github-stats">  
-![](https://github.com/devindudh/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/devindudh/github-stats/blob/master/generated/languages.svg)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=DevinduDh)
 
 # Last 5 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
