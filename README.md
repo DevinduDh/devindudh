@@ -32,7 +32,7 @@
 </details>
 </div>
 
-<summary>Connect with me:</summary>
+#Connect with me:
   <br>
 <div align='left'>
 [<img align="left" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
