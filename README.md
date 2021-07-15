@@ -17,9 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devindudh&show_icons=true&locale=en" alt="devindudh" /></p>
 <!--Github stats:END-->
 <div align='left'>
-<details open><summary><h2 align='left'>Last 5 Books I've Read</h2></summary>
+<details><summary><h2 align='left'>Last 5 Books I've Read</h2></summary>
 <!-- GOODREADS-LIST:START -->
-  <br></br>
+  <br>
   
 - [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.67)
 - [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/3998762923?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.05)
