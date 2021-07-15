@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="banner.gif">
+<img src="newbanner.gif">
 <h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35">I'm Devindu  </h1>
 
 
@@ -17,7 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devindudh&show_icons=true&locale=en" alt="devindudh" /></p>
 <!--Github stats:END-->
 
-# Last 5 Books I've Read 🤓
+# Last 5 Books I've Read 
+<details open>
 <!-- GOODREADS-LIST:START -->
 - [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.67)
 - [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/3998762923?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.05)
@@ -25,7 +26,7 @@
 - [The 5 AM Club: Own Your Morning. Elevate Your Life](https://www.goodreads.com/review/show/3754324465?utm_medium=api&utm_source=rss) by Robin S. Sharma (⭐️3.78)
 - [Think Like a Monk: Train Your Mind for Peace and Purpose Every Day](https://www.goodreads.com/review/show/3754323857?utm_medium=api&utm_source=rss) by Jay Shetty (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
-
+</details>
 ### Connect with me:
 
 [<img align="center" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
