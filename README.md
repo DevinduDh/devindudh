@@ -32,15 +32,3 @@
 </details>
 </div>
 
-#Connect with me:
-  <br>
-<div align='left'>
-[<img align="left" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="devindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/devindu98
-[instagram]: https://instagram.com/devindu_
-[linkedin]: https://linkedin.com/in/devindudh
-
-</div>
