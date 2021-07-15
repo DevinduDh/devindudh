@@ -18,10 +18,10 @@
 <!--Github stats:END-->
 <div align='left'>
 <details>
-<summary><h2 align='left'>Last 5 Books I've Read</h2></summary>
-<!-- GOODREADS-LIST:START -->
-  <br>
+<summary>Last 5 Books I've Read</summary>
+
   
+  <!-- GOODREADS-LIST:START -->
 - [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.67)
 - [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/3998762923?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.05)
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/3992018332?utm_medium=api&utm_source=rss) by James Clear (⭐️4.36)
@@ -31,12 +31,13 @@
   
 </details>
 </div>
-### Connect with me:
-
+<h2 align = 'left'>Connect with me:<h2>
+  <br>
+<div align='left'>
 [<img align="center" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="devindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="devindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+</div>
 <br />
 
 
