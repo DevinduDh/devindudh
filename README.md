@@ -20,12 +20,14 @@
 <details open><summary><h2 align='left'>Last 5 Books I've Read</h2></summary>
 <!-- GOODREADS-LIST:START -->
   <br>
+  <div align='left'>
 - [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.67)
 - [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/3998762923?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.05)
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/3992018332?utm_medium=api&utm_source=rss) by James Clear (⭐️4.36)
 - [The 5 AM Club: Own Your Morning. Elevate Your Life](https://www.goodreads.com/review/show/3754324465?utm_medium=api&utm_source=rss) by Robin S. Sharma (⭐️3.78)
 - [Think Like a Monk: Train Your Mind for Peace and Purpose Every Day](https://www.goodreads.com/review/show/3754323857?utm_medium=api&utm_source=rss) by Jay Shetty (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
+  </div>
 </details>
 ### Connect with me:
 
