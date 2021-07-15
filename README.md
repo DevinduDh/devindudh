@@ -31,21 +31,18 @@
   
 </details>
 </div>
-<h2 align = 'left'>Connect with me:<h2>
+<details>
+<summary>Connect with me:</summary>
   <br>
 <div align='left'>
 [<img align="center" alt="devindu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="devindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="devindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</div>
-<br />
-
-
-<br />
-<br />
 
 
 [twitter]: https://twitter.com/devindu98
 [instagram]: https://instagram.com/devindu_
 [linkedin]: https://linkedin.com/in/devindudh
+</div>
+</details>
 </div>
