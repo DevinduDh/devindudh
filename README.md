@@ -39,11 +39,10 @@
 [<img align="center" alt="devindu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="devindu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<div align='left'>
 [twitter]: https://twitter.com/devindu98
 [instagram]: https://instagram.com/devindu_
 [linkedin]: https://linkedin.com/in/devindudh
-  </div>
+
 </div>
 </details>
 </div>
