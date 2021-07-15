@@ -17,7 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devindudh&show_icons=true&locale=en" alt="devindudh" /></p>
 <!--Github stats:END-->
 <div align='left'>
-<details><summary><h2 align='left'>Last 5 Books I've Read</h2></summary>
+<details>
+<summary><h2 align='left'>Last 5 Books I've Read</h2></summary>
 <!-- GOODREADS-LIST:START -->
   <br>
   
