@@ -35,7 +35,7 @@
   <!--PODCAST-LIST:START-->
 
   <a href = "https://open.spotify.com/show/1Y9ExMgMxoBVrgrfU7u0nD?si=XlRGAL5pSNiNiHiv4G8dvw&dl_branch=1">Safety Third</a>
-    <p> Safety Third is a weekly show hosted by William Osman, NileRed, The Backyard Scientist, Allen Pan, Peter Sripol, and a couple other YouTube "Scientists". Sometimes we have guests, sometimes it's just us, but always: safety is our number three priority.</p>
+    <p> Safety Third is a weekly show hosted by William Osman, NileRed, The Backyard Scientist, Allen Pan, Peter Sripol, and a couple other YouTube "Scientists".</p>
   <!--PODCAST-LIST:END-->
 </details>
 </div>
