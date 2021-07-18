@@ -34,7 +34,7 @@
 <summary>My favourite podcasts:</summary>
   <!--PODCAST-LIST:START-->
 
-  <a href = "https://open.spotify.com/show/1Y9ExMgMxoBVrgrfU7u0nD?si=XlRGAL5pSNiNiHiv4G8dvw&dl_branch=1"> <p>Safety Third</p><p>by William Osman, NileRed, The Backyard Scientist, Allen Pan, Peter Sripol</p>  
+  <a href = "https://open.spotify.com/show/1Y9ExMgMxoBVrgrfU7u0nD?si=XlRGAL5pSNiNiHiv4G8dvw&dl_branch=1"> <p>Safety Third by William Osman, NileRed, The Backyard Scientist, Allen Pan, Peter Sripol</p>  
   <!--PODCAST-LIST:END-->
 </details>
 </div>
