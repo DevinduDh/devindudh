@@ -29,8 +29,10 @@
 - [Think Like a Monk: Train Your Mind for Peace and Purpose Every Day](https://www.goodreads.com/review/show/3754323857?utm_medium=api&utm_source=rss) by Jay Shetty (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
 
+</details>
+<details>
 <summary>My favourite podcasts:</summary>
-- [Safety Third](https://open.spotify.com/show/1Y9ExMgMxoBVrgrfU7u0nD?si=XlRGAL5pSNiNiHiv4G8dvw&dl_branch=1) by William Osman, NileRed, The Backyard Scientist, Allen Pan, Peter Sripol
+- [Safety Third](https://open.spotify.com/show/1Y9ExMgMxoBVrgrfU7u0nD?si=XlRGAL5pSNiNiHiv4G8dvw&dl_branch=1) by William Osman, NileRed, The Backyard Scientist, Allen Pan, Peter Sripol  
 </details>
 </div>
 
