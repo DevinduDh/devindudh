@@ -31,7 +31,7 @@
 
 </details>
 <details>
-<summary>My favourite podcasts:</summary>
+<summary>My favourite podcasts</summary>
   <!--PODCAST-LIST:START-->
 
   <a href = "https://open.spotify.com/show/1Y9ExMgMxoBVrgrfU7u0nD?si=XlRGAL5pSNiNiHiv4G8dvw&dl_branch=1">Safety Third</a>
