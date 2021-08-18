@@ -22,6 +22,7 @@
 
   
   <!-- GOODREADS-LIST:START -->
+- [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.12)
 - [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.67)
 <!-- GOODREADS-LIST:END -->
 
