@@ -15,4 +15,4 @@ jobs:
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "128013353"
-          shelf: "currently-reading"
+          shelf: "read"
