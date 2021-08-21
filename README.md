@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="newbanner.gif">
+
 <h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35">I'm Devindu  </h1>
 
 
