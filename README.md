@@ -18,7 +18,7 @@
 <!--Github stats:END-->
 <div align='left'>
 <details>
-<summary>Book/Books I'm currently reading</summary>
+<summary>Book/Books I recently read</summary>
 
   
   <!-- GOODREADS-LIST:START -->
