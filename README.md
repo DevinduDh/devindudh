@@ -22,6 +22,7 @@
 
   
   <!-- GOODREADS-LIST:START -->
+- [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
 - [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
 - [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
 - [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.12)
