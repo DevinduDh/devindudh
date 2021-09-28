@@ -22,14 +22,14 @@
 
   
   <!-- GOODREADS-LIST:START -->
-- [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
-- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
-- [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
 - [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.12)
-- [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.68)
-- [Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success](https://www.goodreads.com/review/show/3989332267?utm_medium=api&utm_source=rss) by John C. Maxwell (⭐️4.19)
+- [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
 - [The Vendor of Sweets](https://www.goodreads.com/review/show/3754330300?utm_medium=api&utm_source=rss) by R.K. Narayan (⭐️3.82)
 - [The Surgeon (Rizzoli & Isles, #1)](https://www.goodreads.com/review/show/3754324908?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.06)
+- [Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success](https://www.goodreads.com/review/show/3989332267?utm_medium=api&utm_source=rss) by John C. Maxwell (⭐️4.19)
+- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
+- [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
+- [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.68)
 <!-- GOODREADS-LIST:END -->
 
 </details>
