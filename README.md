@@ -31,7 +31,7 @@
 - [The Mephisto Club (Rizzoli & Isles, #6)](https://www.goodreads.com/review/show/4261152272?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.01)
 - [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
 - [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
-- [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.68)
+- [Ice Cold (Rizzoli & Isles, #8)](https://www.goodreads.com/review/show/4279739567?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
 <!-- GOODREADS-LIST:END -->
 
 </details>
