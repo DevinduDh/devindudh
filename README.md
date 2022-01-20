@@ -23,13 +23,13 @@
   
   <!-- GOODREADS-LIST:START -->
 - [The Keepsake (Rizzoli & Isles, #7)](https://www.goodreads.com/review/show/4269496834?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.09)
-- [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.12)
+- [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
 - [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
 - [The Vendor of Sweets](https://www.goodreads.com/review/show/3754330300?utm_medium=api&utm_source=rss) by R.K. Narayan (⭐️3.82)
 - [The Surgeon (Rizzoli & Isles, #1)](https://www.goodreads.com/review/show/3754324908?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.07)
 - [Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success](https://www.goodreads.com/review/show/3989332267?utm_medium=api&utm_source=rss) by John C. Maxwell (⭐️4.2)
 - [The Mephisto Club (Rizzoli & Isles, #6)](https://www.goodreads.com/review/show/4261152272?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.02)
-- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
+- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.16)
 - [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.12)
 - [Ice Cold (Rizzoli & Isles, #8)](https://www.goodreads.com/review/show/4279739567?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
 <!-- GOODREADS-LIST:END -->
