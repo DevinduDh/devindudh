@@ -30,7 +30,7 @@
 - [Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success](https://www.goodreads.com/review/show/3989332267?utm_medium=api&utm_source=rss) by John C. Maxwell (⭐️4.2)
 - [The Mephisto Club (Rizzoli & Isles, #6)](https://www.goodreads.com/review/show/4261152272?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.02)
 - [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.16)
-- [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.12)
+- [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
 - [Ice Cold (Rizzoli & Isles, #8)](https://www.goodreads.com/review/show/4279739567?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
 
