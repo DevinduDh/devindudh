@@ -22,7 +22,7 @@
 
   
   <!-- GOODREADS-LIST:START -->
-- [The Keepsake (Rizzoli & Isles, #7)](https://www.goodreads.com/review/show/4269496834?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.09)
+- [The Keepsake (Rizzoli & Isles, #7)](https://www.goodreads.com/review/show/4269496834?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
 - [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
 - [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
 - [The Vendor of Sweets](https://www.goodreads.com/review/show/3754330300?utm_medium=api&utm_source=rss) by R.K. Narayan (⭐️3.82)
