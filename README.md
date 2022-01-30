@@ -7,7 +7,7 @@
 <h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35">I'm Devindu  </h1>
 
 
-🌱 I’m currently learning HTML,CSS and JAVASCRIPT.<br>
+🌱 I’m currently learning Machine Learning.<br>
 👯 I’m looking to collaborate with other developers.<br>
 🥅 2021 Goals: Be Productive and eat Healthy.<br>
 ⚡ Fun fact: I love to read.
