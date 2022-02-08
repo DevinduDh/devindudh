@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Machine Learning.<br>
 👯 I’m looking to collaborate with other developers.<br>
-🥅 2021 Goals: Be Productive and eat Healthy.<br>
+🥅 2022 Goals: Be Productive and eat Healthy.<br>
 ⚡ Fun fact: I love to read.
   
 <img src="banner2.gif">
