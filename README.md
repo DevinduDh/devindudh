@@ -22,7 +22,7 @@
 
   
   <!-- GOODREADS-LIST:START -->
-- [Ice Cold (Rizzoli & Isles, #8)](https://www.goodreads.com/review/show/4279739567?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.14)
+- [Ice Cold (Rizzoli & Isles, #8)](https://www.goodreads.com/review/show/4279739567?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
 - [The Keepsake (Rizzoli & Isles, #7)](https://www.goodreads.com/review/show/4269496834?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
 - [The Mephisto Club (Rizzoli & Isles, #6)](https://www.goodreads.com/review/show/4261152272?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.02)
 - [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
