@@ -9,8 +9,8 @@
 
 <!--🌱 I’m currently learning Machine Learning.<br> -->
 👯 I’m looking to collaborate with other developers.<br>
-🥅 2022 Goals: Be Productive and eat Healthy.<br>
-<!--⚡ Fun fact: I love to read.-->
+<!-- 🥅 2023 Goals: Be Productive and eat Healthy.<br> -->
+⚡ Currently learning DSA.
   
 <img src="banner2.gif">
 <!--Github stats:START-->
