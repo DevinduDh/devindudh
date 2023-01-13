@@ -26,7 +26,7 @@
 - [The Keepsake (Rizzoli & Isles, #7)](https://www.goodreads.com/review/show/4269496834?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
 - [The Mephisto Club (Rizzoli & Isles, #6)](https://www.goodreads.com/review/show/4261152272?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.02)
 - [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
-- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.16)
+- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.17)
 - [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
 - [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.14)
 - [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.69)
