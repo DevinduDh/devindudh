@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devindu</h1>
 <h3 align="center">Electronics undergrad</h3>
-<img align="right" alt="Coding" width="400" src="[https://vectorified.com/image/vector-gif-5.gif"]>
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
 
 - 🔭 I’m currently working on **Accident Detection using Computer Vision**
 
