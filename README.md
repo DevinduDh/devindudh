@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devindu</h1>
 <h3 align="center">Electronics undergrad</h3>
 
-- 🔭 I’m currently working on **Accident Detection using computer vision**
+- 🔭 I’m currently working on **Accident Detection using Computer Vision**
 
 - 💬 Ask me about **YOLOv5**
 
