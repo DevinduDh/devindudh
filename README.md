@@ -1,40 +1,20 @@
-<!--Hello Welcome to my README.md-->
-<!--Feel free to make this your own but dont use my data ;) -->
+<h1 align="center">Hi 👋, I'm Devindu</h1>
+<h3 align="center">Electronics undergrad</h3>
 
+- 🔭 I’m currently working on **Accident Detection using computer vision**
 
-<div align="center">
+- 💬 Ask me about **YOLOv5**
 
-<h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35">I'm Devindu  </h1>
+- 📫 How to reach me **3ddevindu@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devindudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devindudh" height="30" width="40" /></a>
+</p>
 
-<!--🌱 I’m currently learning Machine Learning.<br> -->
-👯 I’m looking to collaborate with other developers.<br>
-<!-- 🥅 2023 Goals: Be Productive and eat Healthy.<br> -->
-⚡ Currently learning DSA.
-  
-<!-- <img src="banner2.gif">
-<!--Github stats:START-->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devindudh&show_icons=true&locale=en" alt="devindudh" /></p> --> -->
-<!--Github stats:END-->
-<!-- <div align='left'> -->
-<details>
-<summary>Book/Books I recently read</summary>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-  
-  <!-- GOODREADS-LIST:START -->
-- [Ice Cold (Rizzoli & Isles, #8)](https://www.goodreads.com/review/show/4279739567?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.15)
-- [The Keepsake (Rizzoli & Isles, #7)](https://www.goodreads.com/review/show/4269496834?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.1)
-- [The Mephisto Club (Rizzoli & Isles, #6)](https://www.goodreads.com/review/show/4261152272?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.02)
-- [Vanish (Rizzoli &amp; Isles, #5)](https://www.goodreads.com/review/show/4255921872?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.11)
-- [Body Double (Rizzoli & Isles, #4)](https://www.goodreads.com/review/show/4245909477?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.17)
-- [The Sinner (Rizzoli & Isles, #3)](https://www.goodreads.com/review/show/4213008273?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.13)
-- [The Apprentice (Rizzoli & Isles, #2)](https://www.goodreads.com/review/show/4183711271?utm_medium=api&utm_source=rss) by Tess Gerritsen (⭐️4.14)
-- [Digital Fortress](https://www.goodreads.com/review/show/4110472691?utm_medium=api&utm_source=rss) by Dan Brown (⭐️3.69)
-- [Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success](https://www.goodreads.com/review/show/3989332267?utm_medium=api&utm_source=rss) by John C. Maxwell (⭐️4.2)
-- [The Vendor of Sweets](https://www.goodreads.com/review/show/3754330300?utm_medium=api&utm_source=rss) by R.K. Narayan (⭐️3.81)
-<!-- GOODREADS-LIST:END -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devindudh&show_icons=true&locale=en&layout=compact" alt="devindudh" /></p>
 
-</details>
-
-</div>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devindudh&show_icons=true&locale=en" alt="devindudh" /></p>
