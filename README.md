@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devindu</h1>
 <h3 align="center">Electronics undergrad</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1">
+<img align="right" alt="Coding" width="400" src="[https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
 
 - 🔭 I’m currently working on **Accident Detection using Computer Vision**
 
