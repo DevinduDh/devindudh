@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **YOLOv5**
 
-- 📫 How to reach me **3ddevindu@gmail.com**
+- 📫 Reach me **3ddevindu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
