@@ -1,17 +1,17 @@
-<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Aniket!  </h1>
+<h1 align="center">Hello<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Devindu!  </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aniket762&theme=react-dark&hide_border=true&area=true)
 
 <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
 
 - 🔭 I’m currently working on developing coding skills 
-- 🌱 I’m currently focusing on DevOps
+- 🌱 I’m currently focusing on VLSI design
 - 👯 I’m looking to collaborate on Github
-- 🥅 2021 Goals: Be a better human 
+<!-- 🥅 2021 Goals: Be a better human 
 - 💬 Ask me about anything
 - 📬 How to reach me: aniketindian8@gmail.com 
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Oneday I will make it happen 
+- ⚡ Oneday I will make it happen -->
 
 </br>
 
