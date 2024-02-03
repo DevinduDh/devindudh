@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on developing coding skills 
 - 🌱 I’m currently focusing on VLSI design
 - 👯 I’m looking to collaborate on Github
+- ⚡  [Check out my paper on Accident detection using YOLOv5](https://ieeexplore.ieee.org/abstract/document/10262716)
 <!-- 🥅 2021 Goals: Be a better human 
 - 💬 Ask me about anything
 - 📬 How to reach me: aniketindian8@gmail.com 
