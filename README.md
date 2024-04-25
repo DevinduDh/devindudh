@@ -5,7 +5,7 @@
 <!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" /> -->
 
 - 🔭 I’m currently working on developing coding skills 
-- 🌱 I’m currently focusing on VLSI design
+- 🌱 Studying Microelectronics and VLSI 
 - 👯 I’m looking to collaborate on Github
 - ⚡ <a href="https://ieeexplore.ieee.org/abstract/document/10262716" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> Check out my paper on Accident detection using YOLOv5 </a>
 <!-- 🥅 2021 Goals: Be a better human 
