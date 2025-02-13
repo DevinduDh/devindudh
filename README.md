@@ -1,5 +1,5 @@
 <h1 align="center">Hello<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Devindu!  </h1>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevinduDh%2Fhit-counter&count_bg=%233D8AC8&title_bg=%23555555&icon=at-and-t.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://activity-graph.herokuapp.com/graph?username=devindudh&theme=react-dark&hide_border=true&area=true)
 
 <!-- <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" /> -->
